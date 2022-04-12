@@ -4,62 +4,62 @@ Eddie Vedder, Ben Harper<p>
 
 I speak for a man<p>
 Who gave for this land<p>
-Took a bullet in the back
-For his pay
-Spilled his blood
-In the dirt and the dust
-He's back to say
-That what he has seen
-Is hard to believe
-And it does no good
-To just pray
-He asks of us to stand
-And we must end this war today
-With his mind
-He's saying, "No more!"
-With his heart
-He's saying, "No more!"
-With his life
-He's saying, "No more war!"
-With his eyes
-He's saying, "No more!"
-With his body
-He's saying, "No more!"
-With his voice
-He's saying, "No more war!"
-Well nothing's too good
-For a veteran
-Yeah, this is what they say
-So nothing is what they will get
-In this new American way
-The lies we were told
-To get us to go
-War criminal
-Let us be straight
-Let's get to the point
-Where our voices are heard
-Behind the White House gates
-With our minds
-We're saying, "No more!"
-With our hearts
-We're saying, "No more!"
-With our lives
-We're saying, "No more war!"
-With our eyes
-We're saying, "No more!"
-With our bodies
-We're saying, "No more!"
-With our voices
-We're saying, "No more war!"
-No more innocents dying
+Took a bullet in the back<p>
+For his pay<p>
+Spilled his blood<p>
+In the dirt and the dust<p>
+He's back to say<p>
+That what he has seen<p>
+Is hard to believe<p>
+And it does no good<p>
+To just pray<p>
+He asks of us to stand<p>
+And we must end this war today<p>
+With his mind<p>
+He's saying, "No more!"<p>
+With his heart<p>
+He's saying, "No more!"<p>
+With his life<p>
+He's saying, "No more war!"<p>
+With his eyes<p>
+He's saying, "No more!"<p>
+With his body<p>
+He's saying, "No more!"<p>
+With his voice<p>
+He's saying, "No more war!"<p>
+Well nothing's too good<p>
+For a veteran<p>
+Yeah, this is what they say<p>
+So nothing is what they will get<p>
+In this new American way<p>
+The lies we were told<p>
+To get us to go<p>
+War criminal<p>
+Let us be straight<p>
+Let's get to the point<p>
+Where our voices are heard<p>
+Behind the White House gates<p>
+With our minds<p>
+We're saying, "No more!"<p>
+With our hearts<p>
+We're saying, "No more!"<p>
+With our lives<p>
+We're saying, "No more war!"<p>
+With our eyes<p>
+We're saying, "No more!"<p>
+With our bodies<p>
+We're saying, "No more!"<p>
+With our voices<p>
+We're saying, "No more war!"<p>
+No more innocents dying<p>
 No more terrorizing
-No more eulogizing
-No more evangelizing
-No more presidents lying
-No more war
-With our minds
-We're saying, "No more!"
-With our hearts
-We're saying, "No more!"
-With our lives
-We're saying, "No more war!"
+No more eulogizing<p>
+No more evangelizing<p>
+No more presidents lying<p>
+No more war<p>
+With our minds<p>
+We're saying, "No more!"<p>
+With our hearts<p>
+We're saying, "No more!"<p>
+With our lives<p>
+We're saying, "No more war!"<p>
