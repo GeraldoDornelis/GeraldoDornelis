@@ -1,9 +1,9 @@
 No More
 
-Eddie Vedder, Ben Harper
+Eddie Vedder, Ben Harper<p>
 
-I speak for a man
-Who gave for this land
+I speak for a man<p>
+Who gave for this land<p>
 Took a bullet in the back
 For his pay
 Spilled his blood
