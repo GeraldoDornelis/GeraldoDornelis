@@ -1,0 +1,22 @@
+$Username = "seuemail@email.com";
+$Password = "SuaSenha";
+$path = "C:\Users\ricar\Desktop\impressora.txt";
+
+function Send-ToEmail([string]$email, [string]$attachmentpath){
+
+    $message = new-object Net.Mail.MailMessage;
+    $message.From = "seuemail@email.com";
+    $message.To.Add($email);
+    $message.Subject = "Eu sou o galo cego, Quem é você?";
+    $message.Body = "Testando Testando Testando";
+    $attachment = New-Object Net.Mail.Attachment($attachmentpath);
+    $message.Attachments.Add($attachment);
+
+    $smtp = new-object Net.Mail.SmtpClient("smtp.sapo.pt", "587");
+    $smtp.EnableSSL = $true;
+    $smtp.Credentials = New-Object System.Net.NetworkCredential($Username, $Password);
+    $smtp.send($message);
+    write-host "Mail Sent" ; 
+    $attachment.Dispose();
+ }
+Send-ToEmail  -email "destinatário@email.com" -attachmentpath $path;
