@@ -1,0 +1,22 @@
+@echo off
+echo off
+SET HOUR=%TIME:~0,2%
+IF "%HOUR:~0,1%" == " " SET HOUR=0%HOUR:~1,1%
+::Nome do Projeto
+SET PROJETO=faladefensoria
+::IP do Servidor do PostgreSQL:
+SET PGHOST=10.100.246.141
+::Porta de acesso ao PostgreSQL:
+SET PGPORT=5060
+::Base de Dados que será feito backup:
+SET PGDATABASE=agata
+::Usuário da base de dados:
+SET PGUSER=u_backup
+::Senha da base de dados
+SET PGPASSWORD=gPJmHNNhvMAaJSUrGTBR
+::Diretório de destino do arquivo de Backup:
+SET DESTDIR=E:\Backup\Postgresql\dados\PROD\
+::pg_dump.exe -F c -b -v -f %DESTDIR%_%PGDATABASE%.backup
+pg_dump -F p -C -f %DESTDIR%%PROJETO%_%PGDATABASE%_%date:~0,2%-%date:~3,2%-%date:~6,10%-%HOUR%-%time:~3,2%.sql
+echo %ERRORLEVEL%
+IF %ERRORLEVEL% == 0 Echo Deu tudo certo
